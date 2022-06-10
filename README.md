@@ -1,5 +1,7 @@
 # ECE228Project
 
+This repo contains the code for the final project of ECE 228, which is solving waste classification problem using CNN models. Several self-built CNN models and SOTA models such as ResNet and DenseNet are used in this project. 
+
 ## Dependency
 Pytorch, OpenCV, Numpy, sklearn
 
